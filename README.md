@@ -2,7 +2,6 @@
 Using SVD an image thought of as a matrix is represented as the product of three matrices U, S, and V where S is a diagonal matrix whose diagonal entries are singular values of matrix A and U and V are orthogonal matrices.
 The Singular Value Decomposition expresses image data in terms of number of singular values depending upon the dimension of an image. The work is concentrated to reduce the number of singular values required to reconstruct an image.
 The compressed image requires less storage space as compared to the original image.
-![image](https://user-images.githubusercontent.com/62396592/116789829-7ce06e00-aace-11eb-92b3-2b135afc6a95.png)
 
   In this method, we take a Matrix A which is the matrix of the input image.
 - This matrix is separated into three matrices.
